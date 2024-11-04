@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning C, Python, and some Assembly
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: email: andrewdmeder@mgmail.com
+- 📫 How to reach me: email: andrewdmeder@gmail.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I like spending time outdoors and going to the gym
 
