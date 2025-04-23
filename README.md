@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Andrew Meder
-- 👀 I’m interested in Web Development, Cybersecurity, and ML/AI
-- 🌱 I’m currently working with C, Python, Java, HTML, CSS, and some Assembly (Mostly Java and Python)
+- 👀 I’m interested in Cybersecurity, ML/AI
+- 🌱 I’ve worked with C, Python, Java, HTML, CSS, and MIPS Assembly
 - 💞️ I’m looking to collaborate on Java, Python, or C-based projects
-- 📫 How to reach me: email: andrewdmeder@gmail.com
+- 📫 How to reach me: email: admeder@uwm.edu
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I like spending time outdoors and going to the gym
 
